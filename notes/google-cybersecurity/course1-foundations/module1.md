@@ -43,3 +43,27 @@ Cybersecurity analysts are responsible for **protecting information systems** fr
 - Identify vulnerabilities
 - Enforce **security policies** (e.g., password complexity, access control)
 
+## 📚 Cybersecurity Terms and Concepts
+
+### ✅ Compliance
+Compliance means adhering to relevant standards, laws, and regulations.  
+- It helps organizations avoid **fines**, **penalties**, and **security breaches**.
+- Examples: HIPAA, GDPR, CCPA, PCI-DSS.
+
+### 🧩 Security Frameworks
+Security frameworks are structured guidelines used to build plans that help mitigate risks and threats to data and privacy.
+- Common examples include **NIST**, **ISO/IEC 27001**, and **CIS Controls**.
+
+### 🛡️ Security Controls
+Security controls are safeguards or countermeasures designed to reduce specific security risks.
+- Types include:
+  - **Administrative controls** (e.g., policies, training)
+  - **Technical controls** (e.g., firewalls, encryption)
+  - **Physical controls** (e.g., locks, surveillance)
+- Controls are implemented in conjunction with security frameworks to strengthen defenses.
+
+### 🏰 Security Posture
+An organization’s security posture refers to its ability to protect critical assets and data while adapting to changes in the threat environment.
+- A **strong security posture** leads to reduced risk and more effective threat response.
+- Involves continuous assessment, monitoring, and improvement.
+
