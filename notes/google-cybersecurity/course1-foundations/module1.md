@@ -1,15 +1,45 @@
-Introduction to cybersecurity
+## 🔐 What is Cybersecurity?
 
-What is cybersecurity?
-Cybersecurity protects networks, devices, people, and data from unauthorized access.
-An example of a cybersecurity is requiring complex passwords
+Cybersecurity is the practice of protecting networks, devices, people, and data from unauthorized access.
 
-What do security teams do?
-Security teams protect against internal threats such as a employtyee clicking on a compromised link, and external threats, such as someone outside the organization trying tog ain access to private information
-security teams also make sure a company is meeting any required security standards.
-benefits of security
-Cybersecurity protects vbusinesses and can help maintaain business productiivity, for example by establishing a plan for business continuity. 
-cyber security is also important for maintaining brand trust, which can be damaged if customer data is compromised
+- **Example:** Requiring complex passwords to protect accounts.
 
+---
 
+## 🛡️ What Do Security Teams Do?
+
+Security teams protect against both:
+- **Internal threats** (e.g., an employee clicking on a phishing link)
+- **External threats** (e.g., a hacker trying to access private information)
+
+They also ensure that the organization meets **compliance standards** and follows proper **security protocols**.
+
+---
+
+## ✅ Benefits of Cybersecurity
+
+- **Protects business operations** (e.g., through business continuity planning)
+- **Preserves brand trust** by preventing data breaches and customer information leaks
+- Helps meet **legal and regulatory compliance**
+
+---
+
+## 👨‍💻 Responsibilities of an Entry-Level Cybersecurity Analyst
+
+### What Do Security Analysts Do?
+Cybersecurity analysts are responsible for **protecting information systems** from threats and ensuring organizational security.
+
+### 🔹 3 Primary Responsibilities:
+1. **Protect computer and network systems**
+   - Monitor traffic and activity
+2. **Respond to threats**
+   - Investigate alerts, mitigate damage, and conduct penetration testing
+3. **Install and support security solutions**
+   - Collaborate with IT to harden systems
+   - Ensure secure development practices
+
+### 🔍 Additional Duties:
+- Conduct **security audits**
+- Identify vulnerabilities
+- Enforce **security policies** (e.g., password complexity, access control)
 
