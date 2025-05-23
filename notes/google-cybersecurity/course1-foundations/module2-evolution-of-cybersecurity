@@ -1,95 +1,127 @@
-evolution of cybersecurity
+# 📘 Module 2: Evolution of Cybersecurity
 
-computer virus is a malicous code written to interfere with computer opertations and cause damage to data and software
+---
 
-the virus attachs to programd or documents and then spreads 1 or even multiple computer in a network, now virsuses are called malware which is software used to harm devices or networks.
+## 🧬 The Evolution of Cybersecurity
 
-The brain viruse
+### 🔹 What is Malware?
+- Malware is software designed to harm devices or networks.
+- Originally, malicious code was called **viruses** that required a host file to spread.
+- Today, malware includes viruses, worms, ransomware, spyware, etc.
 
-originally it wassupposed to track illegal copies of medical software, and prevent pirated licenses.
-what the viruses actually did was infect any computer with teh pirated licenses then any disk inserted was also infected, the viruse went to a new computer every time someone use the infected disk the slowed down productivity and impacted business operations.
+### 🧠 Notable Malware Attacks
+
+- **The Brain Virus (1986):**
+  - Created to prevent piracy of medical software.
+  - Infected boot sectors of floppy disks and spread unknowingly between computers.
+  - Slowed down systems and impacted productivity.
+
+- **The Morris Worm (1988):**
+  - Intended to measure the size of the internet.
+  - Due to a flaw, it reinstalled itself multiple times, overloading systems and crashing ~6,000 computers (10% of the internet at the time).
+
+- **The ILOVEYOU Virus (2000):**
+  - Disguised as a love letter email attachment.
+  - When opened, it forwarded itself to the user’s contacts and harvested PII.
+  - Affected ~45 million computers globally.
+
+---
+
+## 🧠 Social Engineering
+
+Social engineering is a manipulation tactic used to exploit human error to gain private information or access.
+
+### Types of Social Engineering:
+- **Phishing:** Trick users through email or messages to reveal sensitive data or install malware.
+- **Vishing:** Voice-based phishing via calls.
+- **Smishing:** SMS/text-based phishing.
+- **Spear Phishing:** Targeted phishing to specific individuals or organizations.
+- **Whaling:** Spear phishing that targets high-level executives.
+- **BEC (Business Email Compromise):** Fraudulent email pretending to be a known source to trick users into transferring money or sensitive data.
+
+### Psychological Principles Exploited:
+- **Authority:** Pretending to be a boss or government figure.
+- **Intimidation:** Pressuring victims through fear or urgency.
+- **Consensus/Social Proof:** “Others have done this, so should you.”
+- **Scarcity:** “This is a limited-time opportunity.”
+- **Familiarity:** Pretending to know or have a connection with the target.
+- **Trust:** Building a fake relationship over time.
+- **Urgency:** Forcing quick action to bypass rational thought.
+
+---
+
+## 🛡️ Malware Overview
+
+### Common Malware Types:
+- **Viruses:** Attach to files, require user action to activate.
+- **Worms:** Spread independently across networks without user interaction.
+- **Ransomware:** Encrypts data and demands payment for decryption.
+- **Spyware:** Secretly collects personal info (emails, texts, locations).
+
+---
+
+## 🔥 Incident Response Mentality
+
+> “Be like a firefighter.”  
+- Stay calm during a data breach.
+- Follow your **incident response plan**.
+- Focus on containment and communication, not panic.
+
+---
+
+## 📂 Threat Actor Types
+
+### 👤 APTs (Advanced Persistent Threats)
+- Highly skilled, well-funded.
+- Stealthy, long-term access to networks.
+- Motives: critical infrastructure disruption, IP theft, espionage.
+
+### 🕵️‍♂️ Insider Threats
+- Authorized users who misuse their access.
+- Motives: sabotage, personal gain, revenge.
+
+### 🧑‍💻 Hacktivists
+- Politically or socially motivated attackers.
+- Use digital tools for protest, propaganda, or fame.
+
+---
+
+## 💻 Hacker Classifications
+
+### ✅ Authorized Hackers (White Hats)
+- Ethical hackers.
+- Follow legal frameworks.
+- Help organizations find and fix vulnerabilities.
+
+### ⚪ Semi-Authorized Hackers (Researchers)
+- Explore systems, but don’t exploit vulnerabilities.
+- May report issues to vendors or security communities.
+
+### ❌ Unauthorized Hackers (Black Hats)
+- Malicious actors who break the law.
+- Seek personal gain, often through theft or extortion.
+
+> Other hacker types usually fall into one of these three core categories.
+
+---
+
+## 🛡️ CISSP Domains Overview
+
+These are key knowledge areas from the **CISSP (Certified Information Systems Security Professional)** framework:
+
+1. **Security and Risk Management:** Defines policies, goals, risk mitigation, legal compliance, and business continuity.
+2. **Asset Security:** Securing physical and digital assets; includes proper data disposal.
+3. **Security Architecture & Engineering:** Ensures secure systems and infrastructure.
+4. **Communication and Network Security:** Securing data-in-transit and network configurations.
+5. **Identity and Access Management:** Controls who can access what and when.
+6. **Security Assessment & Testing:** Performs audits and control testing.
+7. **Security Operations:** Incident response, monitoring, investigations.
+8. **Software Development Security:** Secure coding practices and lifecycle protections.
+
+---
 
 
-the morise worm
 
-orignially this viruse was supposed to access the size of the internet. the program installed itself onto other computers, the software however coouldnt keep track of all the computers its had already installed itself on and it reinstalled itself until the computers ran out of memoryss and crashed about 6,000 computers were ffected 
-and that was about 10% of all computers at the time.
-
-Love letter attack
-
-in the year 2000 onal devsman created the love letter malware that worked on people that didnt develop a healthy suspision of on specified emails, people recieved emails saying i love you with an attackment saying ti was a letter and when someone opened it the malware scanned the user address and sent itself to each person on the lsit and installed itself to see users pii,
- this effected 45 million computer globally 
-
-social engineering is a manipulation tehcnique used to explot human error to gain private information access or valuables.
-
-phishing -  is a use of digital communications to trick people  revealing sensitie data or ddeployign malicious software
-
-equafax breach
-
-2017  143 million customer recorsd were stolen which effect 40 eprcent of all americans the things that were elaked were ssn diver licenses home address and mroe 
-common attacks
-Some of the most common types of phishing attacks today include: 
-
-Business Email Compromise (BEC): A threat actor sends an email message that seems to be from a known source to make a seemingly legitimate request for information, in order to obtain a financial advantage.
-
-Spear phishing: A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
-
-Whaling: A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
-
-Vishing: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
-
-Smishing: The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
-
-Malware
-Malware is software designed to harm devices or networks. There are many types of malware. The primary purpose of malware is to obtain money, or in some cases, an intelligence advantage that can be used against a person, an organization, or a territory.  
-
-Some of the most common types of malware attacks today include: 
-
-Viruses: Malicious code written to interfere with computer operations and cause damage to data and software. A virus needs to be initiated by a user (i.e., a threat actor), who transmits the virus via a malicious attachment or file download. When someone opens the malicious attachment or download, the virus hides itself in other files in the now infected system. When the infected files are opened, it allows the virus to insert its own code to damage and/or destroy data in the system.
-
-Worms: Malware that can duplicate and spread itself across systems on its own. In contrast to a virus, a worm does not need to be downloaded by a user. Instead, it self-replicates and spreads from an already infected computer to other devices on the same network.
-
-Ransomware: A malicious attack where threat actors encrypt an organization's data and demand payment to restore access. 
-
-Spyware: Malware that’s used to gather and sell information without consent. Spyware can be used to access devices. This allows threat actors to collect personal data, such as private emails, texts, voice and image recordings, and locations.
-
-Social engineering principles 
-Social engineering is incredibly effective. This is because people are generally trusting and conditioned to respect authority. The number of social engineering attacks is increasing with every new social media application that allows public access to people's data. Although sharing personal data—such as your location or photos—can be convenient, it’s also a risk.
-
-Reasons why social engineering attacks are effective include:
-
-Authority: Threat actors impersonate individuals with power. This is because people, in general, have been conditioned to respect and follow authority figures. 
-
-Intimidation: Threat actors use bullying tactics. This includes persuading and intimidating victims into doing what they’re told. 
-
-Consensus/Social proof: Because people sometimes do things that they believe many others are doing, threat actors use others’ trust to pretend they are legitimate. For example, a threat actor might try to gain access to private data by telling an employee that other people at the company have given them access to that data in the past. 
-
-Scarcity: A tactic used to imply that goods or services are in limited supply. 
-
-Familiarity: Threat actors establish a fake emotional connection with users that can be exploited.  
-
-Trust: Threat actors establish an emotional relationship with users that can be exploited over time. They use this relationship to develop trust and gain personal information.
-
-Urgency: A threat actor persuades others to respond quickly and without questioning
-
-Coach
-Data breaches are scary, but like a fireman running into a burning building, you have to learn to control your emotions and follow your training. 
-
-The content mentions that the most important thing during a data breach is to stay calm.  Imagine a firefighter rushing into a blazing inferno. Their training kicks in, and they focus on the task at hand: extinguishing the fire. Similarly, during a data breach, it's crucial to remain composed and follow the incident management plan. This allows for clear thinking and effective decision-making in a high-pressure situation.
-
-Are there any other concepts from the content you'd like me to break down for you? I'm here to help you understand! 
-
-And if you want to continue exploring this topic, try one of these follow-up questions:
-
-CISSP
-
-are 8 domains in total
-
-domain 1: security and risk management - defines security goals and objectives, risk mitigation, compliance, businesss continuity, and the law.  for example analysts may be need to update company polciies related to private health info if a change is made toa  federal compliance reg then...
-
-doomain 2: asset security - ths domain secures digital and physical assests which is also related to the storage, amintenace, retention and destruction of data. in thsi domain analyst might ahve to make sure old equipment is properly disposed of
-
-security architechture and engineering - optimizes data security by ensuring effective tools, systems, and processes are in place
 
 
 
