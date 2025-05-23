@@ -120,3 +120,14 @@ These are key knowledge areas from the **CISSP (Certified Information Systems Se
 
 ---
 
+
+## 🧠 Reflection
+
+This module helped me understand how cybersecurity has evolved over time in response to increasingly sophisticated threats. Learning about early malware like the Brain Virus and the Morris Worm gave me perspective on how far the threat landscape has come — and how quickly attackers adapt.
+
+What stood out to me most was how **social engineering** exploits human behavior more than technology. Understanding psychological tactics like authority, urgency, and trust made me realize that cybersecurity is not just about systems — it's also about people.
+
+I also found it valuable to learn the differences between **various types of malware and phishing attacks**, and how common vulnerabilities can be exploited in different ways. It reinforced the need for strong training, proactive monitoring, and an always-alert mindset.
+
+This module deepened my awareness of how breaches happen, why attackers choose their targets, and the mental discipline needed to respond effectively under pressure — like a firefighter responding to a blaze. I’m starting to see how all of this connects to real-world job responsibilities, and I’m more motivated to keep building my skills.
+
